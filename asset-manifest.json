@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MohammedHamzaMalik/gif-search/static/css/main.d1d8680b.chunk.css",
+    "main.js": "/MohammedHamzaMalik/gif-search/static/js/main.6c0e7453.chunk.js",
+    "main.js.map": "/MohammedHamzaMalik/gif-search/static/js/main.6c0e7453.chunk.js.map",
+    "runtime-main.js": "/MohammedHamzaMalik/gif-search/static/js/runtime-main.343e25c0.js",
+    "runtime-main.js.map": "/MohammedHamzaMalik/gif-search/static/js/runtime-main.343e25c0.js.map",
+    "static/js/2.ddb2f3cc.chunk.js": "/MohammedHamzaMalik/gif-search/static/js/2.ddb2f3cc.chunk.js",
+    "static/js/2.ddb2f3cc.chunk.js.map": "/MohammedHamzaMalik/gif-search/static/js/2.ddb2f3cc.chunk.js.map",
+    "index.html": "/MohammedHamzaMalik/gif-search/index.html",
+    "precache-manifest.5bf43f7481e7d20058ec09aff7634ad8.js": "/MohammedHamzaMalik/gif-search/precache-manifest.5bf43f7481e7d20058ec09aff7634ad8.js",
+    "service-worker.js": "/MohammedHamzaMalik/gif-search/service-worker.js",
+    "static/css/main.d1d8680b.chunk.css.map": "/MohammedHamzaMalik/gif-search/static/css/main.d1d8680b.chunk.css.map",
+    "static/js/2.ddb2f3cc.chunk.js.LICENSE.txt": "/MohammedHamzaMalik/gif-search/static/js/2.ddb2f3cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.343e25c0.js",
+    "static/js/2.ddb2f3cc.chunk.js",
+    "static/css/main.d1d8680b.chunk.css",
+    "static/js/main.6c0e7453.chunk.js"
+  ]
+}
